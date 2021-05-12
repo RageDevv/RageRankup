@@ -1,0 +1,12 @@
+name: rage
+main: rage\Main
+authors: 
+  - RageDevv
+  - Vorge
+version: 1.0
+api: 3.14.0
+
+commands:
+  heal:
+    description: "heal your self!"
+    permission: use.heal
