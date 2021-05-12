@@ -1,12 +1,12 @@
 name: rage
 main: rage\Main
 authors: 
-  - RageDevv
+  - Rage
   - Vorge
 version: 1.0
 api: 3.14.0
 
 commands:
   heal:
-    description: "heal your self!"
+    description: "heal your self(FormAPI)!"
     permission: use.heal
