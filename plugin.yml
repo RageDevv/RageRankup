@@ -7,5 +7,5 @@ version: 1.0
 api: 3.14.0
 
 commands:
-  heal:
+  Rankup:
     description: "Rankup work in progress!"
