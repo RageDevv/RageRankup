@@ -8,5 +8,4 @@ api: 3.14.0
 
 commands:
   heal:
-    description: "heal your self(FormAPI)!"
-    permission: use.heal
+    description: "Rankup work in progress!"
