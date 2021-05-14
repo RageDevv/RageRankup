@@ -66,7 +66,7 @@ class Main extends PluginBase implements Listener{
         $form->setTitle("RankUp Form");
         $form->setContent("this is a form to rank up!");
         $form->addButton("Mine A (Price $50)");
-		$form->addButton("Get 100 dollars!");
+	$form->addButton("Get 100 dollars!");
         $form->sendToPlayer($player);
         return $form;
     }
